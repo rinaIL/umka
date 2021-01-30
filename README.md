@@ -1,3 +1,3 @@
 # umka
 
-this is example 
+this is an example 
